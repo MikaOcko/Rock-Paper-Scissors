@@ -5,7 +5,7 @@ This project offers a modern version of "Rock-Paper-Scissors" game, developed us
 
 ![Screenshot](/images/screenshot.png)
 
-:tv: Video tutorial (youtube):  [Rock Paper Scissors](https://www.youtube.com/watch?v=RC7NbjwP3QA)
+:tv: Video tutorial (youtube): [Rock Paper Scissors](https://www.youtube.com/watch?v=RC7NbjwP3QA)
 
 ## Badges
 ![Static Badge](https://img.shields.io/badge/Langage-Html-blue)
@@ -18,7 +18,7 @@ This project offers a modern version of "Rock-Paper-Scissors" game, developed us
 No prerequisites required — simply open the game in your browser.
 
 ## Installation
-The project is deployed online at: *(add url of deployed game)*
+The project is deployed online at: [Github pages](https://mikaocko.github.io/Rock-Paper-Scissors/)
 
 If you'd like to run the game locally, you can either **download** or **clone** the project to your computer.
 

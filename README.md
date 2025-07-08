@@ -8,9 +8,9 @@ This project offers a modern version of "Rock-Paper-Scissors" game, developed us
 :tv: Video tutorial (youtube):  [Rock Paper Scissors](https://www.youtube.com/watch?v=RC7NbjwP3QA)
 
 ## Badges
-![Static Badge](https://img.shields.io/badge/langage-Html-blue)
-![Static Badge](https://img.shields.io/badge/langage-CSS-orange)
-![Static Badge](https://img.shields.io/badge/langage-JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/Langage-Html-blue)
+![Static Badge](https://img.shields.io/badge/Langage-CSS-orange)
+![Static Badge](https://img.shields.io/badge/Langage-JavaScript-yellow)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -40,7 +40,8 @@ Once cloned, navigate to the project folder and open `index.html` in your prefer
 
 **Choose one of the three options, click on it and wait for the match results !**
 
-|![Game result examples](/images/game-result-1.png)|![Game result examples](/images/game-result-2.png)|
+![Game result examples](/images/game-result-1.png)
+![Game result examples](/images/game-result-2.png)
 
 ## Roadmap
 No future developments are planned.

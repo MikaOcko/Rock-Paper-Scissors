@@ -29,7 +29,7 @@ Once downloaded, **unzip the file** and **open the `index.html` file in your web
 ### Clone project
 To clone the repository using Git, open a terminal and run:
 ```
-git clone *(add url of repo)*
+git clone https://github.com/MikaOcko/Rock-Paper-Scissors.git
 ```
 Replace `your-username` with your actual GitHub username if necessary.
 Once cloned, navigate to the project folder and open `index.html` in your preferred browser.
